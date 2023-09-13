@@ -18,9 +18,9 @@ collaboration for your class project, or for other classes.
 #### Just Cloning the Class Repository
 You don't need a GitHub account for just cloning the class repository. From the commandline, just do:
 
-`git clone https://github.com/JohnDickerson/cmsc320-fall2018`
+`git clone https://github.com/zicoputra/datascience-2023`
 
-You can do `git pull` (from within the `cmsc320-fall2018` directory) to fetch the newly added material. 
+You can do `git pull` (from within the `datascience-2023` directory) to fetch the newly added material. 
 
 *NOTE*: If you are having trouble installing `git`, you can just download the files instead (as a zipfile), although updating may become tedious. 
 
