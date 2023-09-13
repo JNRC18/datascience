@@ -1,6 +1,6 @@
 # Introduction to Data Science - 2023
 
-**Instructors:** Zico P. putra
+**Instructors:** Zico P. Putra
 
 **Lectures:** MW 2:00-3:15, ESJ 0224
 
