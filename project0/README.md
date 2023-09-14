@@ -79,4 +79,4 @@ Use the command listed above to start a docker container with Jupyter. On your l
 
 ### Assignment 
 
-Complete the function in `Project 0 Assignment` Notebook, and upload the `Project 0 Assignment.ipynb` file to ELMS.
+Complete the function in `Project 0 Assignment` Notebook, and upload the `Project 0 Assignment.ipynb` file to your github.
